@@ -512,6 +512,11 @@ img{
     background-color: transparent;
 }
 
+.footer-input-label:hover,
+.footer-input-label:focus{
+    border-color: #31d0aa;
+}
+
 .footer-text-form{
     font-weight: 500;
     font-size: 16px;
