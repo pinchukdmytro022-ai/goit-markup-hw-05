@@ -553,6 +553,13 @@ img{
     color: #ffffff;
 }
 
+.footer-input-label::placeholder{
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
 .footer-button-form:hover,
 .footer-button-form:focus{
     background-color: #31d0aa;
